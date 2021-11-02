@@ -15,3 +15,6 @@ The files used for the invoice system are as follows:
 3. Open the folder C:\xampp\htdocs
 4. In the htdocs file we create a new file with the name Invoice_System were we put our php  files.
 5. Then we type in the browser: http://localhost/Invoice_System/index.php
+
+# Invoice_System index.php
+![Invoice_System](https://raw.githubusercontent.com/flogera/InvoiceSystem/main/php%20invoice%20system.png)
